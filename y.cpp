@@ -58,7 +58,8 @@ int main(){
     count++;
 
 }
-cout << "\n Digit Counter: " << count;
+cout << "\n Digit Counter: " << count << endl;
+cout << "Changing and testing";
     
 
     return 0;
