@@ -58,7 +58,7 @@ int main(){
     count++;
 
 }
-cout << "\nCounter: " << count;
+cout << "\n Digit Counter: " << count;
     
 
     return 0;
